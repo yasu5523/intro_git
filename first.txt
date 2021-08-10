@@ -1,2 +1,4 @@
 gitの勉強
 基本的なワークフローを学びます。
+・gita\ add
+・git commit
